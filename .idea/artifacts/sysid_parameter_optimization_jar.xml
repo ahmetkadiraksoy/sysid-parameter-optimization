@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sysid-parameter-optimization:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="sysid-parameter-optimization.jar">
+      <element id="module-output" name="sysid-parameter-optimization" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../weka.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
